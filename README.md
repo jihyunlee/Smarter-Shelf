@@ -1,4 +1,4 @@
-Smarter-Shelf
+Smarter Shelf
 =============
 
 This project is about a grocery shopping that helps shoppers to compare items with enlarged, focused item information on the display shelves in terms of a specific category and easily change the categories from one to the next just only by waving hands. No more have to inspect the information at the back of items in small letters. Shoppers can make decisions based on preferred category at a glance and save time!
